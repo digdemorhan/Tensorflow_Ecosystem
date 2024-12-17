@@ -1,7 +1,7 @@
 # Tensorflow_Ecosystem
 
 # Dosyanın Ana Teması
-Bu dosya, derin öğrenme modelleri geliştirebilmek için Tensorflow ile yaptığım çeşitli örnekleri içermektedir. Modellere dair örnekler Colab ortamında çalıştırılmış ve test edilmiştir. 
+Bu dosya, derin öğrenme modelleri geliştirebilmek için Tensorflow ile yaptığım çeşitli örnekleri içermektedir. Modellere dair örnekler Colab ortamında çalıştırılmış ve test edilmiştir. Bu dosyada yer alan çalışmalar, Tirendaz Akademi'nin Udemy üzerinde yayımladığı "Python ile Veri Bilimi ve Makine Öğrenmesi Projeleri: Doğal Dil İşleme, Bilgisayarlı Görü, Zaman Serileri Uygulamaları" kursundaki örneklerden ilham alınarak geliştirilmiştir.
 
 # Dosya İçeriği
 <ul>
@@ -20,7 +20,7 @@ Her bir API için yazılmış örneklerde California Housing Dataset, Fashion MN
 ----
 
 # Main Theme of the File
-This file contains several examples I made with Tensorflow to develop deep learning models. The examples were run and tested in the Colab environment. 
+This file contains several examples I made with Tensorflow to develop deep learning models. The examples were run and tested in the Colab environment. The work in this file is inspired by the examples in Tirendaz Academy's Udemy course “Data Science and Machine Learning Projects with Python: Natural Language Processing, Computer Vision, Time Series Applications” course published by Tirendaz Academy on Udemy.
 
 # File Content
 <ul>
